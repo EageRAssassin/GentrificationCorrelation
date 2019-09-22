@@ -1,5 +1,3 @@
-# GentrificationCorrelation
-ORIE 4741 Project about Predict Trends of Gentrification by Restaurant-Related Data
 ORIE 4741 Project Proposal: 
 Predict Trends of Gentrification by Restaurant-Related Data
 Liye Zhong(lz246), Lu Li(ll565), Rong Tan(rt389), Xueshi Su(xs232)
@@ -19,14 +17,16 @@ https://www.kaggle.com/new-york-city/nyc-inspections
 NYC crimes 
 https://www.kaggle.com/adamschroeder/crimes-new-york-city#NYPD_Complaint_Data_Historic.csv
 https://www.kaggle.com/new-york-state/new-york-state-index-crimes
+US Household Income Statistics
+https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations
+New York City Census Data
+https://www.kaggle.com/muonneutrino/new-york-city-census-data#nyc_census_tracts.csv
 
 HOW CAN WE USE THE DATASET
 To analyze the restaurant data in New York City, 
 We will analyze the datasets XXXXXXX using the XXXXXX.
 
-
 Defining gentrification: https://www.macalester.edu/geography/wp-content/uploads/sites/18/2016/03/Urb_GIS_15_Fed_Res_final.pdf
 
-GitHub Repo:
-https://github.com/EageRAssassin/GentrificationCorrelation
+GitHub Repo: https://github.com/EageRAssassin/GentrificationCorrelation
 
